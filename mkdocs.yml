@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  name: sandstone
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
